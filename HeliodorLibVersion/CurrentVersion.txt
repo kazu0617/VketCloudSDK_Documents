@@ -1,0 +1,21 @@
+【機能追加等】
+- Sceneファイルにraycastmaxdistance設定を追加
+
+【バグ修正】
+- iOSでテキストチャットの吹き出しがはみ出す場合がある
+- チャットログのクローズボタンの表示が残る
+- VRM/MToonのアウトライン描画にBlendShapeが反映されない
+- ２回目以降の動画再生でループフラグが反映されない
+- 動画のフルスクリーンボタンが表示されない
+- iOSで動画再生時にフリーズする場合がある
+- アイテム差し替えでReflectionProbe関連のメモリリークが発生する
+- iOS16.4以降でZ-Fightingが発生する
+- itemをUnloadして再Loadすると強制終了する
+
+【社内向け】
+- hel_canvas_SetGUIImageResizeRequest
+- ハウジング向け各種機能追加
+
+【社内向けバグ修正】
+- ハウジング／ワールド側のコライダーがクリックを阻害する
+- glTFオブジェクトにReflectionProbeが反映されていない
