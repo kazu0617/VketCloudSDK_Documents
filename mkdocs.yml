@@ -18,8 +18,8 @@ extra:
     provider: mike
     default: latest
   search:
-    language: 'en'
     language: 'ja'
+    language: 'en'
 
 use_directory_urls: false
 
