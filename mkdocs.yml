@@ -6,6 +6,7 @@ theme:
   favicon: images/VketCloudIcon.png
   logo: images/VketCloudIcon.png
   name: material
+  language: ja
   palette:
   - scheme: default
     primary: blue
@@ -51,7 +52,7 @@ plugins:
       javascript_dir: js
       canonical_version: null
   - i18n:
-      default_language: en
+      default_language: ja
       languages:
         en: English
         ja: 日本語
