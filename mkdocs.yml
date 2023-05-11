@@ -6,6 +6,7 @@ theme:
   feature:
     tabs: true
   name: material
+  language: ja
   palette:
     accent: Green
     primary: Green
